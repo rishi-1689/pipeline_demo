@@ -1,2 +1,2 @@
-systemcl start httpd 
-systemcl restart httpd
+systemctl start httpd 
+systemctl restart httpd
